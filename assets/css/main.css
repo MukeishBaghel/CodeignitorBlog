@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:700');
+/* @import url('https://fonts.googleapis.com/css?family=Ubuntu'); */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+body,p,a{
+	/* font-family: 'Ubuntu', sans-serif; */
+	font-family: 'Roboto Slab', serif;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Oswald', sans-serif;
+}
+p{
+	font-size: 1.2em;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+ul .list-item{
+	padding: 8px 0;
+	border-bottom: 1px solid grey;
+}
+.icon{
+	padding: 16px;
+}
+p.p-discp{
+	font-size: 1.6em;
+}
+.article-col p{
+	text-align: center;
+}
+.article{
+	/* position: absolute; */
+	min-height: 400px;
+	max-height: 450px;
+}
+.article span.category{
+	position: absolute;
+	top:0;
+	right: 16px;
+	padding: 8px 12px;
+	background-color: #3A3F44;
+	transition: all ease-in-out 300ms;
+}
+.article span.category:hover{
+	box-shadow: 3px 3px 7px rgb(19, 24, 27);
+	transform: translateY(-3px);
+
+}
+.article span.category:active{
+	transform: translateY(3px);
+	box-shadow: 3px 3px 7px rgb(26, 42, 51);
+
+}
+/* .border{
+	border:1px solid #7A8288 !important; 
+}
+#article-body > *:not(p+img) {
+	display: none;
+} */
+/* .article-body:not(.article-body p>img){
+	display: none;
+} */
+/* .article-body p > img{
+	display: block;
+} */
+blockquote{
+  font-size: 1.3em;
+  /* width:60%; */
+  /* margin:50px auto; */
+  /* font-family:Open Sans; */
+  font-style:italic;
+  color: #b4b3b3;
+  padding:1.2em 30px 1.2em 75px;
+  border-left:8px solid #78C0A8 ;
+  line-height:1.6;
+  position: relative;
+  /* background:#EDEDED; */
+}
+
+blockquote::before{
+  font-family:Arial;
+  content: "\201C";
+  color:#78C0A8;
+  font-size:4em;
+  position: absolute;
+  left: 10px;
+  top:-10px;
+}
+
+blockquote::after{
+	font-family:Arial;
+	content: "\201D";
+	color:#78C0A8;
+	font-size:4em;
+	position: absolute;
+	right: 10px;
+	bottom:-20px;
+}
+
+blockquote span{
+  display:block;
+  color:#333333;
+  font-style: normal;
+  font-weight: bold;
+  margin-top:1em;
+}
