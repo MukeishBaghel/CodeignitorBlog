@@ -26,7 +26,7 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="article border p-2 mb-3">
-				<span class="category">Politics</span>
+				<span class="category btn btn-secondary">Politics</span>
 				<a href="#"><img src="https://source.unsplash.com/400x300/?nature,water" alt="" style="width:100%;">
 				<h1 class="">The Old and  the Restless</h1></a>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate natus impedit nesciunt unde.</p>
@@ -36,7 +36,7 @@
 			</div>
 			<div class="col-md-4">
 			<div class="article border p-2 mb-3">
-			<span class="category">Politics</span>
+			<span class="category btn btn-secondary">Politics</span>
 				<img src="https://source.unsplash.com/400x300/?nature,water" alt="" style="width:100%;">
 				<h1 class="">The Old and  the Restless</h1>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate natus impedit nesciunt unde.</p>
@@ -47,7 +47,7 @@
 
 			<div class="col-md-4">
 			<div class="article border p-2 mb-3">
-			<span class="category">Politics</span>
+			<span class="category btn btn-secondary">Politics</span>
 				<img src="https://source.unsplash.com/400x300/?nature,water" alt="" style="width:100%;">
 				<h1 class="">The Old and  the Restless</h1>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate natus impedit nesciunt unde.</p>
@@ -59,7 +59,7 @@
 			<!-- second row -->
 			<div class="col-md-4">
 				<div class="article">
-				<span class="category">Politics</span>
+				<span class="category btn btn-secondary">Politics</span>
 				<a href="#"><img src="https://source.unsplash.com/400x300/?nature,water" alt="" style="width:100%;">
 				<h1 class="">The Old and  the Restless</h1></a>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate natus impedit nesciunt unde.</p>
@@ -69,7 +69,7 @@
 			</div>
 			<div class="col-md-4">
 			<div class="article">
-			<span class="category">Politics</span>
+			<span class="category btn btn-secondary">Politics</span>
 				<img src="https://source.unsplash.com/400x300/?nature,water" alt="" style="width:100%;">
 				<h1 class="">The Old and  the Restless</h1>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate natus impedit nesciunt unde.</p>
@@ -79,7 +79,7 @@
 			</div>
 			<div class="col-md-4">
 			<div class="article">
-				<span class="category">Politics</span>
+				<span class="category btn btn-secondary">Politics</span>
 				<img src="https://source.unsplash.com/400x300/?nature,water" alt="" style="width:100%;">
 				<h1 class="">The Old and  the Restless</h1>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate natus impedit nesciunt unde.</p>

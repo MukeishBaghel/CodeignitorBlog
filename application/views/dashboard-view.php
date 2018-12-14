@@ -6,7 +6,11 @@
 		<strong><?php echo $error; ?></strong>
 	</div>
 <?php endif; ?>
-<h1 class="text-center">Welcome to Dashboard</h1>
+<div class="div">
+	<h1 class="d-inline">Welcome to Dashboard</h1>
+	<a class="btn btn-info float-right" href="<?php echo site_url('users/blog/addarticle');?>">+ Add</a>
+	<div class="clearfix"></div>
+</div>
 
 	<div class="row">
 		<div class="col-md-9">

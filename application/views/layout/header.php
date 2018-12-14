@@ -5,16 +5,17 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://bootswatch.com/4/slate/bootstrap.min.css">
+	<!-- <link rel="stylesheet" href="https://bootswatch.com/4/slate/bootstrap.min.css"> -->
+	<link rel="stylesheet" href="https://bootswatch.com/4/lumen/bootstrap.min.css">
 	<link rel="stylesheet" href="<?php echo base_url("/assets/css/main.css");?>">
 	
 	<title>MyBlog</title>
 </head>
 <body>
 	<!--navigation  Bar -->
-	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	<nav class="navbar sticky-bottom navbar-expand-lg navbar-dark bg-dark">
 	<div class="container">
-	<a class="navbar-brand" href="#">MyBlog</a>
+	<a class="navbar-brand" href="<?=site_url('/');?>">MyBlog</a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>

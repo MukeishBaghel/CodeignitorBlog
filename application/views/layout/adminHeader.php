@@ -5,7 +5,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://bootswatch.com/4/slate/bootstrap.min.css">
+	<!-- <link rel="stylesheet" href="https://bootswatch.com/4/slate/bootstrap.min.css"> -->
+	<link rel="stylesheet" href="https://bootswatch.com/4/lumen/bootstrap.min.css">
 	<link rel="stylesheet" href="<?php echo base_url("/assets/css/main.css");?>">
 	
 	<title>MyBlog</title>
@@ -23,9 +24,6 @@
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
         <a class="nav-link" href="<?php echo site_url('authentication/dashboard')?>">Admin Home <span class="sr-only">(current)</span></a>
-      </li>
-			<li class="nav-item">
-        <a class="nav-link" href="<?php echo site_url('users/blog/addarticle')?>">Add Article <span class="sr-only">(current)</span></a>
       </li>
       <!-- <li class="nav-item ">
 				

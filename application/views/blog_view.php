@@ -7,7 +7,7 @@
 			<?php foreach($articles as $article):?>
 				<div class="col-md-4">
 					<div class="article border p-2 mb-3">
-					<a href="<?php echo site_url('blog/category/'.$article->category)?>"><span class="category"><?=$article->category?></span></a>
+					<a href="<?php echo site_url('blog/category/'.$article->category)?>"><span class="category btn btn-secondary"><?=$article->category?></span></a>
 					<!-- <img src="https://source.unsplash.com/400x300/?nature,water" alt="" style="width:100%;"> -->
 					
 					<div class="article-body">
@@ -220,7 +220,59 @@
 			</div>
 			<div class="col-4">
 			<div class="border p-3">
-					<h4 class="text-center">Tech</h4>
+					<h4 class="text-center">Art</h4>
+						<ul class="list-group">
+							<li class="list-group-item">
+								<h4>The Old and  the Restless</h4>
+								<h6> <small>by</small> Alan Walker</h6>	
+								<p>Politics <sup>.</sup> May 23,2018</p>
+							</li>
+							<li class="list-group-item">
+								<h4>The Old and  the Restless</h4>
+								<h6> <small>by</small> Alan Walker</h6>	
+								<p>Politics <sup>.</sup> May 23,2018</p>
+							</li>
+								<li class="list-group-item">
+								<h4>The Old and  the Restless</h4>
+								<h6> <small>by</small> Alan Walker</h6>	
+								<p>Politics <sup>.</sup> May 23,2018</p>
+							</li>
+						</ul>
+						<a href="#" class="float-right">More >>></a>
+						<div class="clearfix"></div>
+				</div>
+			</div>
+			
+			<div class="col-4">
+			<div class="border p-3">
+					<h4 class="text-center">Health</h4>
+						<ul class="list-group">
+							<li class="list-group-item">
+								<h4>The Old and  the Restless</h4>
+								<h6> <small>by</small> Alan Walker</h6>	
+								<p>Politics <sup>.</sup> May 23,2018</p>
+							</li>
+							<li class="list-group-item">
+								<h4>The Old and  the Restless</h4>
+								<h6> <small>by</small> Alan Walker</h6>	
+								<p>Politics <sup>.</sup> May 23,2018</p>
+							</li>
+								<li class="list-group-item">
+								<h4>The Old and  the Restless</h4>
+								<h6> <small>by</small> Alan Walker</h6>	
+								<p>Politics <sup>.</sup> May 23,2018</p>
+							</li>
+						</ul>
+						<a href="#" class="float-right">More >>></a>
+						<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row mt-3">
+			<div class="col-4">
+				<div class="border p-3">
+					<h4 class="text-center">Politics</h4>
 						<ul class="list-group">
 							<li class="list-group-item">
 								<h4>The Old and  the Restless</h4>
@@ -244,7 +296,32 @@
 			</div>
 			<div class="col-4">
 			<div class="border p-3">
-					<h4 class="text-center">Tech</h4>
+					<h4 class="text-center">Food & Travel</h4>
+						<ul class="list-group">
+							<li class="list-group-item">
+								<h4>The Old and  the Restless</h4>
+								<h6> <small>by</small> Alan Walker</h6>	
+								<p>Politics <sup>.</sup> May 23,2018</p>
+							</li>
+							<li class="list-group-item">
+								<h4>The Old and  the Restless</h4>
+								<h6> <small>by</small> Alan Walker</h6>	
+								<p>Politics <sup>.</sup> May 23,2018</p>
+							</li>
+								<li class="list-group-item">
+								<h4>The Old and  the Restless</h4>
+								<h6> <small>by</small> Alan Walker</h6>	
+								<p>Politics <sup>.</sup> May 23,2018</p>
+							</li>
+						</ul>
+						<a href="#" class="float-right">More >>></a>
+						<div class="clearfix"></div>
+				</div>
+			</div>
+			
+			<div class="col-4">
+			<div class="border p-3">
+					<h4 class="text-center">Music</h4>
 						<ul class="list-group">
 							<li class="list-group-item">
 								<h4>The Old and  the Restless</h4>

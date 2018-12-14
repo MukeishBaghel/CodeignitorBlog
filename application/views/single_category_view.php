@@ -4,7 +4,7 @@
 			<?php foreach($articles as $article):?>
 				<div class="col-md-4">
 					<div class="article border p-2 mb-3">
-					<a href="<?php echo site_url('blog/category/'.$article->category)?>"><span class="category"><?=$article->category?></span></a>
+					<a href="<?php echo site_url('blog/category/'.$article->category)?>"><span class="category btn btn-secondary"><?=$article->category?></span></a>
 					<!-- <img src="https://source.unsplash.com/400x300/?nature,water" alt="" style="width:100%;"> -->
 					
 					<div class="article-body">

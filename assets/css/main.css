@@ -32,16 +32,17 @@ p.p-discp{
 .article{
 	/* position: absolute; */
 	min-height: 400px;
-	max-height: 450px;
+	/* max-height: 450px; */
 }
-.article span.category{
+ .article span.category{
 	position: absolute;
 	top:0;
 	right: 16px;
 	padding: 8px 12px;
-	background-color: #3A3F44;
+	/* background-color: rgb(117, 117, 117); */
 	transition: all ease-in-out 300ms;
 }
+/*
 .article span.category:hover{
 	box-shadow: 3px 3px 7px rgb(19, 24, 27);
 	transform: translateY(-3px);
@@ -51,7 +52,7 @@ p.p-discp{
 	transform: translateY(3px);
 	box-shadow: 3px 3px 7px rgb(26, 42, 51);
 
-}
+} */
 /* .border{
 	border:1px solid #7A8288 !important; 
 }
