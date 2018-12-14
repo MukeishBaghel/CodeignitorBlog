@@ -35,18 +35,18 @@
 					</div>
 
 					<div class="fb-comments mt-3" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="100%" data-numposts="5"
-					data-colorscheme="dark"></div>
+					data-colorscheme="light"></div>
 			</div>
 
 			<div class="div-col-3">
-				<ul class="list-group mt-3">
+				<ul class="list-group mt-3 pl-3">
 					<h4 class="text-center">More from the Writer</h4>
 					<li class="list-group-item"><a href="/">bla bla bla</a></li>
 					<li class="list-group-item"><a href="/">bla bla bla</a></li>
 					<li class="list-group-item"><a href="/">bla bla bla</a></li>
 				</ul>
 
-				<ul class="list-group mt-3">
+				<ul class="list-group mt-3 pl-3">
 					<h4 class="text-center">Relate Posts</h4>
 					<li class="list-group-item"><a href="/">bla bla bla</a></li>
 					<li class="list-group-item"><a href="/">bla bla bla</a></li>

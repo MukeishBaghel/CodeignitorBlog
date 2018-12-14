@@ -90,7 +90,7 @@
 		<h3 class="text-center">Most Viewed Articles.</h3>
 		<div class="row mb-3">
 			<?php foreach($articles as $article):?>
-				<div class="col-4 mb-3">
+				<div class="col-md-4 mb-3">
 					<ul class="list-group">
 						<li class="list-group-item">
 							<a href="<?php echo site_url('blog/article/'.$article->blog_id)?>"><h4><?=$article->blog_title?></h4></a>
@@ -194,8 +194,8 @@
 	<div class="container mt-3">
 		<h3 class="text-center">Categories</h3>
 		<div class="row">
-			<div class="col-4">
-				<div class="border p-3">
+			<div class="col-md-4">
+				<div class="border p-3 mt-2">
 					<h4 class="text-center">Tech</h4>
 						<ul class="list-group">
 							<li class="list-group-item">
@@ -218,8 +218,8 @@
 						<div class="clearfix"></div>
 				</div>
 			</div>
-			<div class="col-4">
-			<div class="border p-3">
+			<div class="col-md-4">
+			<div class="border p-3 mt-2">
 					<h4 class="text-center">Art</h4>
 						<ul class="list-group">
 							<li class="list-group-item">
@@ -243,8 +243,8 @@
 				</div>
 			</div>
 			
-			<div class="col-4">
-			<div class="border p-3">
+			<div class="col-md-4">
+			<div class="border p-3 mt-2">
 					<h4 class="text-center">Health</h4>
 						<ul class="list-group">
 							<li class="list-group-item">
@@ -270,8 +270,8 @@
 		</div>
 
 		<div class="row mt-3">
-			<div class="col-4">
-				<div class="border p-3">
+			<div class="col-md-4">
+				<div class="border p-3 mt-2">
 					<h4 class="text-center">Politics</h4>
 						<ul class="list-group">
 							<li class="list-group-item">
@@ -294,8 +294,8 @@
 						<div class="clearfix"></div>
 				</div>
 			</div>
-			<div class="col-4">
-			<div class="border p-3">
+			<div class="col-md-4">
+			<div class="border p-3 mt-2">
 					<h4 class="text-center">Food & Travel</h4>
 						<ul class="list-group">
 							<li class="list-group-item">
@@ -319,8 +319,8 @@
 				</div>
 			</div>
 			
-			<div class="col-4">
-			<div class="border p-3">
+			<div class="col-md-4">
+			<div class="border p-3 mt-2">
 					<h4 class="text-center">Music</h4>
 						<ul class="list-group">
 							<li class="list-group-item">

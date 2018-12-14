@@ -95,7 +95,7 @@
 	<div class="container">
 		<h3 class="text-center">Most Viewed Articles.</h3>
 		<div class="row mb-3">
-			<div class="col-4">
+			<div class="col-md-4">
 				<ul class="list-group">
 					<li class="list-group-item">
 						<h4>The Old and  the Restless</h4>
@@ -104,7 +104,7 @@
 					</li>
 				</ul>
 			</div>
-			<div class="col-4">
+			<div class="col-md-4">
 			<ul class="list-group">
 					<li class="list-group-item">
 						<h4>The Old and  the Restless</h4>
@@ -113,7 +113,7 @@
 					</li>
 				</ul>
 			</div>
-			<div class="col-4">
+			<div class="col-md-4">
 			<ul class="list-group">
 					<li class="list-group-item">
 						<h4>The Old and  the Restless</h4>
@@ -125,7 +125,7 @@
 		</div>
 
 		<div class="row mb-3">
-			<div class="col-4">
+			<div class="col-md-4">
 				<ul class="list-group">
 					<li class="list-group-item">
 						<h4>The Old and  the Restless</h4>
@@ -134,7 +134,7 @@
 					</li>
 				</ul>
 			</div>
-			<div class="col-4">
+			<div class="col-md-4">
 			<ul class="list-group">
 					<li class="list-group-item">
 						<h4>The Old and  the Restless</h4>
@@ -143,7 +143,7 @@
 					</li>
 				</ul>
 			</div>
-			<div class="col-4">
+			<div class="col-md-4">
 			<ul class="list-group">
 					<li class="list-group-item">
 						<h4>The Old and  the Restless</h4>
@@ -155,7 +155,7 @@
 		</div>
 
 	<div class="row mb-3">
-			<div class="col-4">
+			<div class="col-md-4">
 				<ul class="list-group">
 					<li class="list-group-item">
 						<h4>The Old and  the Restless</h4>
@@ -164,7 +164,7 @@
 					</li>
 				</ul>
 			</div>
-			<div class="col-4">
+			<div class="col-md-4">
 			<ul class="list-group">
 					<li class="list-group-item">
 						<h4>The Old and  the Restless</h4>
@@ -173,7 +173,7 @@
 					</li>
 				</ul>
 			</div>
-			<div class="col-4">
+			<div class="col-md-4">
 			<ul class="list-group">
 					<li class="list-group-item">
 						<h4>The Old and  the Restless</h4>
